@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\ Question\ 1\:\ no\ error\r\n\ Question\ 2\:\ "Hello"\ is\ just\ a\ string,\ so\ misspelling\ "hello"\ only\ affects\ the\ user\ (in\ this\ case)\r\n\ Question\ 3\:\ "unclosed\ string\ literal"\r\n\ Question\ 4\:\ "expected\ ')'"\r\n\ Question\ 5\:\ "expected\ semicolon"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
