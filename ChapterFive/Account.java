@@ -69,8 +69,9 @@ public class Account{
             balance -= amount;
             Account.totalWithdrawals+=amount;
             Account.numWithdrawals++;
-        }else
+        }else{
             System.out.println("Insufficient funds");
+        }
     }
     //----------------------------------------------
     // Adds deposit amount to balance.

@@ -24,14 +24,14 @@ public class ChangingPeople{
     //  the second actual parameter to be a person with the age and
     //  name given in the third and fourth parameters.
     // -------------------------------------------------------------------
-    public static void changePeople (Person p1, Person p2, int age, String name){
+    public static void changePeople(Person p1, Person p2, int age, String name){
         System.out.println("\nInside changePeople... Original parameters...");
         System.out.println("person1: " + p1);
         System.out.println("person2: " + p2);
         System.out.println("age: " + age + "\tname: " + name + "\n");
         // Make changes
-        Person p3 = new Person(name, age);
-        p2 = p3;
+        p2.changeName("Jill");
+        p2.changeAge(21);
         name = "Jack";
         age = 101;
         p1.changeName(name);

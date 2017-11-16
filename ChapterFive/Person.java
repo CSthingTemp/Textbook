@@ -4,7 +4,7 @@ public class Person{
     // ------------------------------------------------------------
     //  Sets up a Person object with the given name and age.
     // ------------------------------------------------------------
-    public Person (String name, int age) {
+    public Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -17,7 +17,7 @@ public class Person{
     // -----------------------------------------------------------
     //   Changes the age of the Person to the parameter newAge.
     // -----------------------------------------------------------
-    public void changeAge (int newAge){
+    public void changeAge(int newAge){
         age = newAge;
     }
    

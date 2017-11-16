@@ -14,7 +14,7 @@ public class ProcessTransactions{
         System.out.println(acct1);
         System.out.println(acct2);
         
-        while (keepGoing.equals("y") || keepGoing.equals("y")){
+        while(keepGoing.toLowerCase().equals("y")){
             //get account number, what to do, and amount
             System.out.print("\nEnter the number of the account you would like to access (123 or 456): ");
             acctNumber = scan.nextInt();
