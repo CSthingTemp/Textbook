@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Compare2
+comment1.params=v
+comment1.target=Compare2(int)
+comment2.params=other
+comment2.target=int\ compareTo(java.lang.Integer)
+comment3.params=a1\ a2
+comment3.target=int\ largest(int,\ int)
+numComments=4
