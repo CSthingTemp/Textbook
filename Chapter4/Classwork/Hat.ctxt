@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=company_\ hasHoles_
+comment1.target=Hat(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ madeBy()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=wheels_\ brand_
+comment1.target=Car(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ vroom()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getWheels()
+comment5.params=
+comment5.target=java.lang.String\ getBrand()
+comment6.params=other
+comment6.target=boolean\ equals(Car)
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Factory
+comment1.params=st\ size
+comment1.target=Factory(java.lang.String,\ int)
+comment2.params=c\ location
+comment2.target=void\ addCar(Car,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
